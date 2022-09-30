@@ -1,3 +1,4 @@
+//used for using the memory at its best.
 #include <stdio.h>
 #include <stdlib.h>
 struct queue
